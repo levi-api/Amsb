@@ -22,8 +22,8 @@ const menu = (pushname, sender, data, hora, prefixo) => {
 ╭────────────╯
 ┝━ 𖡦 Para/Adms
 ╎
-╎𖤛 ${prefixo}promover (Nome) 
-╎𖤛 ${prefixo}rebaixar (Nome) 
+╎𖤛 ${prefixo}promover (@Numero) 
+╎𖤛 ${prefixo}rebaixar (@Numero) 
 ╎𖤛 ${prefixo}banir (@Numero) 
 ╎𖤛 ${prefixo}gp (Fecha, abrir) 
 ╎𖤛 ${prefixo}mudardk (Descrição) 

@@ -28,8 +28,8 @@ Projector criador por <a href="https://github.com/levi-api">Levi</a>
 
 | BuildPack | LINK |
 |--------|--------|
-| **FFMPEG** |[Aqui](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
-| **IMAGEMAGICK** | [Aqui](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
+| **FFMPEG** |[here](https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest) |
+| **IMAGEMAGICK** | [here](https://github.com/DuckyTeam/heroku-buildpack-imagemagick) |
 
 ---------
 ## Inicialização da script

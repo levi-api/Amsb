@@ -43,7 +43,7 @@ Projector criador por <a href="https://github.com/levi-api">Levi</a>
 * Download NodeJS [`Clique aqui`](https://nodejs.org/en/download)
 * Download FFmpeg [`Clique aqui`](https://ffmpeg.org/download.html) (**Não se esqueça de adicionar FFmpeg às variáveis de ambiente PATH**)
 
-## Comandos
+## Comandos para instalar a script
 
 ```bash
 git clone https://github.com/levi-api/Amsb.git

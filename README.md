@@ -8,9 +8,6 @@
   <p align="center">
 <img src="https://telegra.ph/file/5f3cf9dcddcc0fe23cac7.jpg" alt="Img" width="128" height="128"/>
 </p>
- <p align="center">
-<a href="#"><img src="https://img.shields.io/badge/Levi-api?colorA=%007FFF&colorB=%007FFFe40&style=for-the-badge"></a>
-</p>
   <p align="center">
 <a href="https://wa.me/558981457096"><img title="Meu WhatsApp" src="https://img.shields.io/badge/whatsapp-js/JulieMwol?color=blue&style=for-the-badge&logo=WhatsApp"></a>
 </p>

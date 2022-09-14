@@ -49,7 +49,7 @@ const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Wellinton\n' // Nome completo
 + 'ORG:LVDEV;\n' // A organização do contato
-+ 'TEL;type=CELL;type=VOICE;waid=558981457096:+55 89 8145-7096\n' // WhatsApp ID + Número de telefone
++ 'TEL;type=CELL;type=VOICE;waid=558981457096:+55 89 8145 7096\n' // WhatsApp ID + Número de telefone
 + 'END:VCARD' // Fim do ctt
 
 // Início da conexão
@@ -334,7 +334,7 @@ caption: `
 🥀🎭 Seu perfil 🎃💫
 
 🧑‍💻 Nome: ${pushname}
-🛸 Número: https://wa.me/${sender.split('@')[0]}
+🛸 Número: ${sender.split('@')[0]}
 📅 Data: ${data}
 🕗 Horário: ${hora}
 ♨️ Celular: ${info.key.id.length > 21 ? 'Android 😴' : info.key.id.substring(0, 2) == '3A' ? 'IOS 😑' : 'WhatsApp web 😅'}

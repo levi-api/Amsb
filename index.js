@@ -48,7 +48,7 @@ let latensi = speed() - girastamp
 const vcard = 'BEGIN:VCARD\n'
 + 'VERSION:3.0\n' 
 + 'FN:Wellinton\n' // Nome completo
-+ 'ORG:LVDEV;\n' // A organização do contato
++ 'ORG:Wa Company;\n' // A organização do contato
 + 'TEL;type=CELL;type=VOICE;waid=558981457096:+55 89 8145 7096\n' // WhatsApp ID + Número de telefone
 + 'END:VCARD' // Fim do ctt
 
